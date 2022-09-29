@@ -1,0 +1,84 @@
+.all
+{
+    border: 1px solid black;
+    width: 1200px;
+    height: 500px;
+    margin-left: 60px;
+    margin-top: 20px;
+    background-image: url(wallet.png);
+}
+.head
+{
+    background-color: rgb(46, 46, 46);
+    width: 1200px;
+    height: 50px;
+}
+.si
+{
+    margin-left: 1000px;
+    margin-top: -30px;
+    color:white;
+}
+
+.home 
+{
+    margin-left:100px;
+    margin-top: -30px;
+}
+.home a
+{
+    text-decoration: none;
+    font-size: 20px;
+    padding:20px;
+}
+.si input
+{
+    color: black;
+    font-size: 15px;
+    font-family: serif;
+}
+.login
+{
+    width: 350px;
+    height: 320px; 
+    margin-left: 500px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.login label
+{
+    font-size: 30px;
+    font-family: serif;
+    color:rgb(79, 79, 79);
+
+}
+.login input
+{
+    width: 340px;
+    height: 30px;
+    border-radius: 8px;
+}
+.button
+{
+    
+    margin-left: 500px;
+    margin-top: -40px;
+}
+.button input
+{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    font-family: serif;
+    
+
+}
+.button a
+{
+    margin-left: 60px;
+    color: rgb(7, 7, 115);
+    font-size: 25px;
+    font-family: serif;
+    text-decoration: none;
+
+}
